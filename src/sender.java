@@ -6,7 +6,6 @@ import java.time.LocalTime;
 
 public class sender extends Thread{
 
-
     private final static int PORT=2018;
     private final static InetAddress host;
 
